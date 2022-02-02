@@ -7,3 +7,8 @@ Realtime temperature, humidity, pressure and wind direction are all in the weath
 <img src="https://github.com/manavnim/Weather-App/blob/470e5e888bf656573f1be3a5edb7a2cf37a18bd7/Weather%20App%20.png">
 # Prototype 
 link : https://www.figma.com/proto/OQfd3BYSfsv7YdyRnsPhPX/Weather-App?page-id=0%3A1&node-id=1%3A326&viewport=241%2C48%2C0.37&scaling=scale-down&starting-point-node-id=1%3A326&show-proto-sidebar=1
+
+<p float="left">
+  <img src="https://github.com/manavnim/Weather-App/blob/09f757f343eb471a9de5d32a3b95cbaf9fed8202/Darkmode-Home.png" width="100" />
+  <img src="https://github.com/manavnim/Weather-App/blob/09f757f343eb471a9de5d32a3b95cbaf9fed8202/homeScreen.png" width="100" /> 
+</p>
