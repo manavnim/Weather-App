@@ -5,3 +5,5 @@ The weather app also provides atmospheric pressure, weather conditions, visibili
 Realtime temperature, humidity, pressure and wind direction are all in the weather app based.
 #gh-dark-mode-only
 <img src="https://github.com/manavnim/Weather-App/blob/470e5e888bf656573f1be3a5edb7a2cf37a18bd7/Weather%20App%20.png">
+# Prototype 
+link : https://www.figma.com/proto/OQfd3BYSfsv7YdyRnsPhPX/Weather-App?page-id=0%3A1&node-id=1%3A326&viewport=241%2C48%2C0.37&scaling=scale-down&starting-point-node-id=1%3A326&show-proto-sidebar=1
