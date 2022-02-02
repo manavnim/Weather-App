@@ -11,5 +11,4 @@ link : https://www.figma.com/proto/OQfd3BYSfsv7YdyRnsPhPX/Weather-App?page-id=0%
 <p float="left">
   <img src="https://github.com/manavnim/Weather-App/blob/09f757f343eb471a9de5d32a3b95cbaf9fed8202/Darkmode-Home.png"  />
   <img src="https://github.com/manavnim/Weather-App/blob/09f757f343eb471a9de5d32a3b95cbaf9fed8202/homeScreen.png" />
-  <img src="https://github.com/manavnim/Weather-App/blob/aaa9d63038d8bf7da66ddac380fc05bff09a512d/SearchScreen.png" />
 </p>
